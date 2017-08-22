@@ -1,0 +1,12 @@
+/home/george/workspace/sekolah/src/main/java/meruvian/config/SwaggerConfig.java
+/home/george/workspace/sekolah/src/main/java/meruvian/service/KelasService.java
+/home/george/workspace/sekolah/src/main/java/meruvian/repository/SiswaRepository.java
+/home/george/workspace/sekolah/src/main/java/meruvian/config/ApplicationConfig.java
+/home/george/workspace/sekolah/src/main/java/meruvian/repository/KelasRepository.java
+/home/george/workspace/sekolah/src/main/java/meruvian/service/RestKelasService.java
+/home/george/workspace/sekolah/src/main/java/meruvian/service/RestSiswaService.java
+/home/george/workspace/sekolah/src/main/java/meruvian/service/SiswaService.java
+/home/george/workspace/sekolah/src/main/java/meruvian/Main.java
+/home/george/workspace/sekolah/src/main/java/meruvian/config/JPAConfig.java
+/home/george/workspace/sekolah/src/main/java/meruvian/entity/Kelas.java
+/home/george/workspace/sekolah/src/main/java/meruvian/entity/Siswa.java
